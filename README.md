@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**samridhdeshwar01-hue/samridhdeshwar01-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | SQL • Python • Excel • Power BI • Tableau
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst with a background in Pre-Sales and Project Management, transitioning into data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning raw data into actionable insights, identifying patterns, solving business problems, and building data-driven solutions.
+
+🛠️ Skills & Tools
+Languages: SQL, Python
+Data Analysis: Pandas, NumPy, Exploratory Data Analysis (EDA), Data Cleaning
+Visualization: Power BI, Tableau, Excel
+Analytics: Statistical Analysis, Business Analysis, Data Visualization
+Other: Data Reporting, Problem Solving, Business Insights
